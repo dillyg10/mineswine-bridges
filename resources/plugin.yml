@@ -1,0 +1,6 @@
+name: ${artifactId}
+version: 1.0
+main: com.mineswine.bridges.Bridges
+depend: ['Backend']
+commands:
+  testkit:
